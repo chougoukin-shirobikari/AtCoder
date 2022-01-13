@@ -5,6 +5,11 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
+/**
+ * 
+ * AtCoder Beginners SelectionのKagamiMochiの解答
+ *
+ */
 public class KagamiMochi {
 
 	public static void main(String[] args) {

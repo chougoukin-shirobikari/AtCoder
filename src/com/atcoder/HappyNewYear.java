@@ -3,6 +3,11 @@ package com.atcoder;
 import java.math.BigInteger;
 import java.util.Scanner;
 
+/**
+ * 
+ *１月８日のコンテストのHappyNewYearの解答
+ *
+ */
 public class HappyNewYear {
 
 	public static void main(String[] args) {

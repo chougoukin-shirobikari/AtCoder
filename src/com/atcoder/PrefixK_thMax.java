@@ -5,6 +5,11 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * 
+ *１月８日のコンテストのPrefix K-th Maxの解答
+ *
+ */
 public class PrefixK_thMax {
 
 	public static void main(String[] args) {

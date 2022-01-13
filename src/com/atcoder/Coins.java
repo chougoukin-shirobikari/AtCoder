@@ -2,25 +2,14 @@ package com.atcoder;
 
 import java.util.Scanner;
 
+/**
+ * 
+ * AtCoder Beginners SelectionのCoinsの解答
+ *
+ */
 public class Coins {
 
 	public static void main(String[] args) {
-		/**
-		int a1 = 2;
-		int b1 = 2;
-		int c1 = 2;
-		int x1 = 100;
-		
-		int a2 = 5;
-		int b2 = 1;
-		int c2 = 0;
-		int x2 = 150;
-		
-		int a3 = 30;
-		int b3 = 40;
-		int c3 = 50;
-		int x3 = 6000;
-		**/
 		
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
@@ -31,15 +20,6 @@ public class Coins {
 		int result = coins(a, b, c, x);
 		System.out.println(result);
 		
-		/**
-		int result1 = coins(a1, b1, c1, x1);
-		int result2 = coins(a2, b2, c2, x2);
-		int result3 = coins(a3, b3, c3, x3);
-		
-		System.out.println(result1);
-		System.out.println(result2);
-		System.out.println(result3);
-		**/
 
 	}
 	

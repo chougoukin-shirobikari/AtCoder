@@ -2,6 +2,11 @@ package com.atcoder;
 
 import java.util.Scanner;
 
+/**
+ * 
+ * AtCoder Beginners Selectionの白昼夢の解答
+ *
+ */
 public class Hakuchuumu {
 
 	public static void main(String[] args) {

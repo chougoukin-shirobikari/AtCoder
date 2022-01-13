@@ -5,6 +5,11 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * 
+ *１月８日のコンテストのLongestSegmentの解答
+ *
+ */
 public class LongestSegment {
 
 	public static void main(String[] args) {

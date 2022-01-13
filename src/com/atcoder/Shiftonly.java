@@ -5,6 +5,11 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * 
+ * AtCoder Beginners SelectionのShiftonlyの解答
+ *
+ */
 public class Shiftonly {
 
 	public static void main(String[] args) {

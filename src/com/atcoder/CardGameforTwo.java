@@ -5,6 +5,11 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * 
+ * AtCoder Beginners SelectionのCardCameforTwoの解答
+ *
+ */
 public class CardGameforTwo {
 
 	public static void main(String[] args) {

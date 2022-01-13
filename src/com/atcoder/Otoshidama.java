@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * 
+ * AtCoder Beginners SelectionのOtoshidamaの解答
+ *
+ */
 public class Otoshidama {
 
 	public static void main(String[] args) {
